@@ -1,9 +1,9 @@
 ---
-name: Seeker Error Report / Feature Request
+name: Jeff / Feature Request
 about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+title: 'Jeff'
+labels: 'Jeff'
+assignees: 'Jeff'
 
 ---
 
@@ -11,13 +11,13 @@ assignees: ''
 
 A clear description of what the bug or feature request is
 
----
+--- Jeff
 
 **To Reproduce**
 
 Steps to reproduce the behavior, we cannot fix the issue if we can't reproduce it
 
----
+---message me 
 
 **Expected behavior**
 
